@@ -1,0 +1,17 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/address": "^5.0.5",
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.0.19",
+    "express": "^4.17.1"
+  }
+}
