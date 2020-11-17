@@ -1,11 +1,13 @@
 # ftest
 
-## clone repo 
+### clone repo to local
 
-git clone 
+git clone https://github.com/williamwang1/ftest.git
 
-## install dependency
+### install dependency
+
 npm install
 
-#$ run 
+## run 
+
 node index.js
